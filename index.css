@@ -1788,6 +1788,8 @@ background:linear-gradient(135deg,#7b2cbf,#9d4edd) border-box;
 -webkit-mask:
 linear-gradient(#fff 0 0) padding-box,
 linear-gradient(#fff 0 0);
+mask:linear-gradient(#fff 0 0) padding-box,
+linear-gradient(#fff 0 0);
 
 -webkit-mask-composite:xor;
 mask-composite:exclude;
