@@ -745,7 +745,7 @@ rgba(243,232,255,0.92)
 
 .escape-footer{
 position:relative;
-background-image:url("/images/footer\ jpg.jpeg");
+background-image:url("Images/footer-bg.jpg");
 background-size:cover;
 background-position:center;
 color:var(--footer-text);
